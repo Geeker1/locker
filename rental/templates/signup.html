@@ -1,0 +1,25 @@
+{% extends "layout.html" %}
+{% block message %}
+    {% for message in get_flashed_messages() %}
+        <div class="flash">
+            {{ message }}
+        </div>
+    {% endfor %}
+{% endblock %}
+{% block body %}
+<div class="login">
+    <h2>Signup</h2>
+    {% if error %}
+    	<p class="error"><strong>Error:</strong> {{ error }}</p>
+    {% endif %}
+    <img class="svg" src="{{ url_for('static', filename='lock.svg') }}" />
+        <form action="{{ url_for('auth.signup') }}" method="post">
+            <input type="text" placeholder="Username" name="username">
+            <input placeholder="Password" type="password"
+                type="password" name="password">
+            <input type="email" name="email" placeholder="Email Address">
+            <input class="btn" type="submit" value="Register">
+                <span class="log-span">Have an Account ? <a class="detail" href="{{ url_for('auth.login') }}"><strong>Login Here</strong></a></span>
+        </form>
+</div>
+{% endblock %}

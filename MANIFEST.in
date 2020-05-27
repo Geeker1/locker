@@ -1,0 +1,3 @@
+graft rental/templates
+graft rental/static
+include flaskr/schema.sql

@@ -1,0 +1,37 @@
+{% extends "layout.html" %}
+{% block message %}
+    {% for message in get_flashed_messages() %}
+        <div class="flash">
+            {{ message }}
+        </div>
+    {% endfor %}
+{% endblock %}
+{% block body %}
+<section class="link">
+    <span class="detail"><a class="detail" href="{{ url_for('rental.show_links') }}">View saved links</a></span>
+    <h3>Generate new link ?</h3>
+    <form
+        class="pass-form"
+        method="post"
+        action="{{ url_for('rental.short_link') }}"
+    >
+        <input class="pass-input" name="url" type="url" placeholder="Website URL" required />
+        <input class="btn" type="submit" />
+    </form>
+</section>
+<hr>
+<section class="pass">
+    <span class="detail"><a class="detail" href="{{ url_for('rental.list_password') }}">See current passwords</a></span>
+    <h3>Generate new Password ?</h3>
+    <span>Fill in the details below to generate a new password.</span>
+    <form
+        class="pass-form"
+        method="post"
+        action="{{ url_for('rental.add_password') }}"
+    >
+        <input class="pass-input" name="website" type="url" placeholder="Website" required />
+        <input class="pass-input" name="username" type="text" placeholder="Username" required />
+        <input class="btn" type="submit" value="Generate" />
+    </form>
+</section>
+{% endblock %}

@@ -1,0 +1,32 @@
+{% extends "layout.html" %}
+{% block body %}
+<section class="links">
+    <h3 class="pass-heading">Your stored passwords</h3>
+    <span class="extra">(Click password to copy to clipboard)</span>
+    <img class="svg" src="{{ url_for('static', filename='bever.svg') }}" />
+    <div class="pass website">
+    	<span>Website</span>
+    	<span>Username</span>
+    	<span>Password</span>
+    </div>
+    <hr>
+    {% for password in passwords %}
+        <div class="pass">
+            <div class="item-pass">
+            	<span class="hint">Website</span>
+            	<span>{{ password.website }}</span>
+            </div>
+            <div class="item-pass">
+            	<span class="hint">Username</span>
+            	<span>{{ password.username }}</span>
+            </div>
+            <div class="item-pass">
+            	<span class="hint">Password</span>
+            	<span onclick="alert('copied!!')">{{ password.password }}</span>
+            </div>
+        </div>
+    {% else %}
+    <h4>No passwords have been generated....</h4>
+    {% endfor %}
+</section>
+{% endblock %}

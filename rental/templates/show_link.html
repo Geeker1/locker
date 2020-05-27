@@ -1,0 +1,27 @@
+{% extends "layout.html" %}
+{% block body %}
+<section class="links">
+    <h3 class="pass-heading">Your saved links</h3>
+    <img class="svg" src="{{ url_for('static', filename='bever.svg') }}" />
+    <div class="pass website">
+    	<span>Website URL</span>
+    	<span>Short Link</span>
+    </div>
+    {% for link in links %}
+    <hr>
+        <div class="link">
+            <div class="item-pass">
+                <span class="hint">Website</span>
+                <span>{{ link.url }}</span>
+            </div>
+            <div class="item-pass">
+                <span class="hint">Short Link</span>
+                <a class="detail" target="_blank" href="{{ url_for('rental.link', url=link.short_url) }}"><span>https://{{ host }}/{{ link.short_url }}</span></a>
+            </div>
+        </div>
+    {% else %}
+    <hr>
+    <p>No links saved yet. Go to home page to shorten link</p>
+    {% endfor %}
+</section>
+{% endblock %}
