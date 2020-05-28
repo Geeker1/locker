@@ -1,1 +1,1 @@
-web: gunicorn rental.wsgi --log-file -
+web: gunicorn wsgi:app --log-file -
