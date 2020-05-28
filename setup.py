@@ -8,6 +8,7 @@ setup(
         'flask',
         'bcrypt',
         'flask-sqlalchemy',
-        'gunicorn'
+        'gunicorn',
+        'psycopg2-binary'
     ]
 )
