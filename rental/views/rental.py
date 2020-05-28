@@ -12,6 +12,7 @@ rental = Blueprint(
 
 @rental.route('/')
 def home():
+    print(request.url, request.base_url)
     if session.get('logged_in', None) is None:
         return redirect(url_for('auth.login'))
     print(session.get('user_id', None))
@@ -53,7 +54,7 @@ def show_links():
     user_id = session['user_id']
     links = Link.query.filter_by(user_id=user_id).all()
     return render_template(
-        'show_link.html', links=links, host='localhost:5000')
+        'show_link.html', links=links, host=request.host_url)
 
 
 @rental.route('/<url>', methods=['GET'])

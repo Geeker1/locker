@@ -9,9 +9,8 @@ app.register_blueprint(auth)
 
 app.config.from_object("rental.config.Config")
 path = os.path.join(os.path.abspath(os.getcwd()), "test.db")
-if os.getenv("FLASK_ENV") == "DEVELOPMENT":
-    SQLALCHEMY_DATABASE_URI = "sqlite:///" + path
-else:
+SQLALCHEMY_DATABASE_URI = "sqlite:///" + path
+if os.getenv("FLASK_ENV") != "DEVELOPMENT":
     SQLALCHEMY_DATABASE_URI = os.getenv("DATABASE_URL")
 
 app.config["SQLALCHEMY_DATABASE_URI"] = SQLALCHEMY_DATABASE_URI

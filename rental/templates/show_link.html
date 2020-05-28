@@ -16,7 +16,7 @@
             </div>
             <div class="item-pass">
                 <span class="hint">Short Link</span>
-                <a class="detail" target="_blank" href="{{ url_for('rental.link', url=link.short_url) }}"><span>https://{{ host }}/{{ link.short_url }}</span></a>
+                <a class="detail" target="_blank" href="{{ url_for('rental.link', url=link.short_url) }}"><span>{{ host }}{{ link.short_url }}</span></a>
             </div>
         </div>
     {% else %}
