@@ -7,6 +7,7 @@ setup(
     install_requires=[
         'flask',
         'bcrypt',
-        'flask-sqlalchemy'
+        'flask-sqlalchemy',
+        'gunicorn'
     ]
 )
