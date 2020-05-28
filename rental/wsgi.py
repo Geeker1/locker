@@ -1,4 +1,3 @@
-from rental import app as application
+from rental import app
 
-if __name__ == '__main__':
-    application.run()
+application = app
