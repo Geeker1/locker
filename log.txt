@@ -6467,3 +6467,1437 @@
 
 [2020-05-26 11:54:35.087] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
 
+[2020-05-28 09:43:56.957] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:43:57.119] [IQ Option] [error] Unable to copy file 'Z:\home\devcode\.iqoption\\IQOptionUpdater.exe' to 'Z:\home\devcode\.iqoption\\IQOptionUpdaterHelper.exe': File not found.
+
+[2020-05-28 09:43:57.120] [IQ Option] [error] Cannot start process: File not found.
+
+[2020-05-28 09:44:05.837] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:44:05.837] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:44:07.180] [IQ Option] [error] Can't open file 'C:\users\devcode\Temp\\IQ Option\thumbnailscache.json': Sharing violation.
+
+[2020-05-28 09:44:07.180] [IQ Option] [error] Unable to save file: 'C:\users\devcode\Temp\\IQ Option\thumbnailscache.json': File not found.
+
+[2020-05-28 09:44:07.195] [IQ Option] [error] Can't open file 'C:\users\devcode\Temp\\IQ Option\thumbnailscache.json': Sharing violation.
+
+[2020-05-28 09:44:07.196] [IQ Option] [error] Unable to save file: 'C:\users\devcode\Temp\\IQ Option\thumbnailscache.json': File not found.
+
+[2020-05-28 09:44:10.908] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:44:10.909] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:44:12.718] [IQ Option] [error] WS front: ws02b
+[2020-05-28 09:44:13.075] [IQ Option] [error] Failed to perform subscription request 'verification-level-updated': Invalid contract
+[2020-05-28 09:44:15.423] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:44:15.423] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:44:15.952] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:44:15.953] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:44:21.005] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:44:21.005] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:44:26.096] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:44:26.096] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:44:31.156] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:44:31.157] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:44:36.200] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:44:36.200] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:44:41.264] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:44:41.264] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:44:46.319] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:44:46.319] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:44:51.383] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:44:51.383] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:44:56.460] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:44:56.460] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:45:01.520] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:45:01.520] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:45:06.639] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:45:06.641] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:45:11.719] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:45:11.720] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:45:16.765] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:45:16.766] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:45:21.819] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:45:21.819] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:45:26.892] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:45:26.892] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:45:31.952] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:45:31.953] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:45:37.059] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:45:37.059] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:45:42.131] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:45:42.131] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:45:47.200] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:45:47.200] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:45:52.244] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:45:52.244] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:45:57.300] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:45:57.300] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:46:02.346] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:46:02.346] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:46:07.392] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:46:07.392] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:46:12.462] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:46:12.462] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:46:17.521] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:46:17.521] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:46:22.599] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:46:22.600] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:46:27.645] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:46:27.646] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:46:32.720] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:46:32.721] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:46:37.786] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:46:37.787] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:46:42.860] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:46:42.860] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:46:47.934] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:46:47.934] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:46:52.977] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:46:52.977] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:46:58.051] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:46:58.051] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:47:03.144] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:47:03.145] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:47:08.194] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:47:08.195] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:47:13.247] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:47:13.248] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:47:18.304] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:47:18.304] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:47:23.363] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:47:23.364] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:47:28.406] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:47:28.407] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:47:33.456] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:47:33.458] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:47:38.527] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:47:38.528] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:47:43.603] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:47:43.603] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:47:48.681] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:47:48.681] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:47:53.729] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:47:53.730] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:47:58.789] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:47:58.789] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:48:03.861] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:48:03.862] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:48:08.913] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:48:08.914] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:48:13.956] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:48:14.276] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:48:19.172] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:48:19.172] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:48:24.228] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:48:24.228] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:48:29.293] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:48:29.294] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:48:34.360] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:48:34.360] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:48:39.437] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:48:39.437] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:48:44.494] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:48:44.805] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:48:49.546] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:48:49.546] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:48:54.607] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:48:54.608] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:48:59.656] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:48:59.656] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:49:04.721] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:49:04.722] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:49:09.794] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:49:09.795] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:49:14.871] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:49:14.871] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:49:19.945] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:49:19.945] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:49:25.036] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:49:25.039] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:49:30.146] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:49:30.146] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:49:35.211] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:49:35.211] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:49:40.258] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:49:40.258] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:49:45.329] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:49:45.329] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:49:50.390] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:49:50.391] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:49:55.498] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:49:55.498] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:50:00.545] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:50:00.545] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:50:05.615] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:50:05.615] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:50:10.666] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:50:10.666] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:50:15.709] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:50:15.709] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:50:20.759] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:50:20.760] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:50:25.834] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:50:25.835] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:50:30.907] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:50:30.908] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:50:35.955] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:50:35.956] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:50:41.061] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:50:41.061] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:50:46.119] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:50:46.120] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:50:51.161] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:50:51.161] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:50:56.229] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:50:56.229] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:51:01.298] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:51:01.299] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:51:06.368] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:51:06.368] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:51:11.413] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:51:11.414] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:51:16.456] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:51:16.456] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:51:21.539] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:51:21.539] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:51:26.583] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:51:26.583] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:51:31.648] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:51:31.648] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:51:36.702] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:51:36.702] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:51:41.744] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:51:41.745] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:51:46.804] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:51:46.804] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:51:51.854] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:51:51.854] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:51:56.908] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:51:56.908] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:52:01.957] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:52:01.958] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:52:07.018] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:52:07.018] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:52:12.072] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:52:12.073] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:52:17.133] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:52:17.134] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:52:22.189] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:52:22.190] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:52:27.261] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:52:27.261] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:52:32.334] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:52:32.335] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:52:37.408] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:52:37.408] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:52:42.463] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:52:42.464] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:52:47.536] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:52:47.536] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:52:52.605] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:52:52.605] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:52:57.666] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:52:57.667] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:53:02.721] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:53:02.722] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:53:07.783] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:53:07.784] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:53:12.843] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:53:12.843] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:53:17.892] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:53:17.892] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:53:22.948] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:53:22.949] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:53:28.010] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:53:28.010] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:53:33.081] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:53:33.081] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:53:38.135] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:53:38.135] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:53:43.209] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:53:43.209] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:53:48.275] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:53:48.275] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:53:53.319] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:53:53.320] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:53:58.398] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:53:58.399] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:54:03.448] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:54:03.449] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:54:08.505] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:54:08.506] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:54:13.562] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:54:13.563] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:54:18.612] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:54:18.612] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:54:23.688] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:54:23.688] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:54:28.740] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:54:28.741] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:54:33.810] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:54:33.811] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:54:38.866] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:54:38.867] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:54:43.919] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:54:43.920] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:54:48.961] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:54:48.962] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:54:54.024] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:54:54.350] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:54:59.078] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:54:59.078] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:55:04.181] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:55:04.182] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:55:09.249] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:55:09.249] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:55:14.306] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:55:14.307] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:55:19.355] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:55:19.356] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:55:24.411] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:55:24.412] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:55:29.481] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:55:29.481] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:55:34.546] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:55:34.546] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:55:39.620] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:55:39.620] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:55:44.678] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:55:44.678] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:55:49.743] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:55:49.743] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:55:54.796] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:55:54.797] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:55:59.861] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:55:59.861] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:56:04.916] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:56:05.234] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:56:09.964] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:56:09.965] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:56:15.028] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:56:15.029] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:56:20.109] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:56:20.109] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:56:25.152] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:56:25.152] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:56:30.222] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:56:30.222] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:56:35.298] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:56:35.299] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:56:40.371] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:56:40.371] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:56:45.434] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:56:45.434] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:56:50.477] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:56:50.478] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:56:55.527] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:56:55.527] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:57:00.586] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:57:00.586] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:57:05.644] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:57:05.644] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:57:10.698] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:57:10.698] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:57:15.759] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:57:15.759] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:57:20.872] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:57:20.873] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:57:25.946] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:57:25.946] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:57:31.032] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:57:31.032] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:57:36.127] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:57:36.128] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:57:41.175] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:57:41.175] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:57:46.243] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:57:46.244] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:57:51.310] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:57:51.310] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:57:56.352] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:57:56.353] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:58:01.399] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:58:01.400] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:58:06.465] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:58:06.465] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:58:11.523] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:58:11.523] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:58:16.597] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:58:16.598] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:58:21.652] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:58:21.652] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:58:26.743] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:58:26.743] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:58:31.805] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:58:31.806] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:58:36.865] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:58:36.865] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:58:41.935] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:58:41.936] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:58:47.314] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:58:47.315] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:58:52.364] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:58:52.365] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:58:57.425] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:58:57.425] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:59:02.473] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:59:02.473] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:59:07.553] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:59:07.553] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:59:12.596] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:59:12.596] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:59:17.675] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:59:17.675] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:59:22.747] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:59:22.748] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:59:27.814] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:59:27.815] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:59:32.878] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:59:32.879] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:59:37.930] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:59:37.930] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:59:43.010] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:59:43.010] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:59:48.076] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:59:48.076] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:59:53.120] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:59:53.121] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:59:58.182] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 09:59:58.182] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:00:03.260] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:00:03.261] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:00:08.363] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:00:08.364] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:00:13.453] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:00:13.453] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:00:18.518] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:00:18.518] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:00:23.563] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:00:23.563] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:00:28.635] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:00:28.636] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:00:33.687] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:00:33.688] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:00:38.750] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:00:38.751] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:00:43.798] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:00:43.798] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:00:48.841] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:00:48.842] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:00:53.891] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:00:53.891] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:00:58.948] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:00:58.949] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:01:03.998] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:01:03.998] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:01:09.086] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:01:09.086] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:01:14.160] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:01:14.161] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:01:19.220] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:01:19.221] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:01:24.282] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:01:24.283] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:01:29.352] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:01:29.353] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:01:34.416] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:01:34.784] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:01:39.488] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:01:39.488] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:01:44.536] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:01:44.537] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:01:49.590] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:01:49.590] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:01:54.664] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:01:54.665] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:01:59.711] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:01:59.711] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:02:04.766] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:02:04.767] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:02:09.883] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:02:09.884] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:02:14.944] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:02:14.945] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:02:20.041] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:02:20.041] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:02:25.181] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:02:25.182] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:02:30.275] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:02:30.276] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:02:35.323] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:02:35.323] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:02:40.390] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:02:40.390] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:02:45.479] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:02:45.483] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:02:50.555] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:02:50.556] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:02:55.597] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:02:55.597] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:03:00.663] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:03:00.664] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:03:05.744] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:03:05.744] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:03:10.805] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:03:10.806] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:03:15.880] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:03:15.880] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:03:20.960] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:03:20.961] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:03:26.062] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:03:26.063] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:03:31.117] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:03:31.118] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:03:36.183] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:03:36.184] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:03:41.236] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:03:41.237] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:03:46.278] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:03:46.278] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:03:51.355] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:03:51.356] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:03:56.458] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:03:56.459] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:04:01.510] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:04:01.511] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:04:06.582] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:04:06.583] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:04:11.625] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:04:11.626] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:04:16.707] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:04:16.707] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:04:21.782] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:04:21.783] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:04:26.956] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:04:26.963] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:04:32.033] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:04:32.033] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:04:37.130] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:04:37.131] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:04:42.178] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:04:42.179] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:04:47.228] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:04:47.228] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:04:52.312] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:04:52.312] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:04:57.362] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:04:57.362] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:05:02.414] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:05:02.414] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:05:07.461] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:05:07.462] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:05:12.547] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:05:12.548] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:05:17.628] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:05:17.628] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:05:22.710] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:05:22.711] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:05:27.834] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:05:27.834] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:05:32.896] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:05:32.897] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:05:37.982] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:05:37.982] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:05:43.083] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:05:43.084] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:05:48.144] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:05:48.145] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:05:53.238] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:05:53.239] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:05:58.288] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:05:58.288] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:06:03.369] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:06:03.370] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:06:08.432] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:06:08.432] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:06:13.487] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:06:13.488] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:06:18.546] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:06:18.547] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:06:23.632] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:06:23.633] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:06:28.677] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:06:28.678] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:06:33.773] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:06:33.774] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:06:38.831] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:06:38.831] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:06:43.926] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:06:43.926] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:06:48.968] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:06:48.968] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:06:54.070] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:06:54.387] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:06:59.158] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:06:59.158] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:07:04.236] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:07:04.236] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:07:09.308] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:07:09.308] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:07:14.392] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:07:14.392] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:07:19.456] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:07:19.457] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:07:24.534] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:07:24.534] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:07:29.613] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:07:29.613] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:07:34.678] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:07:34.678] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:07:39.736] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:07:39.736] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:07:44.804] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:07:44.805] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:07:49.853] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:07:49.853] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:07:54.900] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:07:54.901] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:07:59.953] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:07:59.953] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:08:05.075] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:08:05.075] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:08:10.157] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:08:10.158] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:08:15.229] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:08:15.230] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:08:20.276] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:08:20.277] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:08:25.363] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:08:25.363] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:08:30.444] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:08:30.446] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:08:35.620] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:08:35.621] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:08:40.680] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:08:40.681] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:08:45.742] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:08:45.743] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:08:50.828] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:08:50.829] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:08:55.896] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:08:55.896] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:09:00.987] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:09:00.987] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:09:06.044] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:09:06.045] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:09:11.106] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:09:11.107] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:09:16.163] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:09:16.164] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:09:21.257] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:09:21.257] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:09:26.413] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:09:26.413] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:09:31.501] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:09:31.502] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:09:36.544] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:09:36.545] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:09:41.608] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:09:41.608] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:09:46.668] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:09:46.668] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:09:51.729] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:09:51.729] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:09:56.774] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:09:56.774] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:10:01.835] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:10:01.836] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:10:06.904] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:10:06.905] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:10:11.998] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:10:11.999] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:10:17.059] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:10:17.060] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:10:22.101] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:10:22.102] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:10:27.192] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:10:27.193] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:10:32.273] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:10:32.274] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:10:37.329] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:10:37.330] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:10:42.401] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:10:42.402] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:10:47.478] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:10:47.478] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:10:52.554] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:10:52.555] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:10:57.626] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:10:57.626] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:11:02.692] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:11:02.692] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:11:07.743] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:11:07.743] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:11:12.807] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:11:12.808] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:11:17.856] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:11:17.856] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:11:22.915] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:11:22.916] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:11:27.979] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:11:27.979] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:11:33.091] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:11:33.091] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:11:38.168] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:11:38.168] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:11:43.221] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:11:43.222] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:11:48.310] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:11:48.310] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:11:53.364] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:11:53.365] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:11:58.437] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:11:58.438] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:12:03.515] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:12:03.516] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:12:08.560] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:12:08.561] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:12:13.641] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:12:13.641] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:12:18.696] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:12:18.697] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:12:23.767] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:12:24.230] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:12:28.823] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:12:28.823] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:12:33.898] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:12:34.214] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:12:38.961] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:12:38.961] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:12:44.039] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:12:44.039] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:12:49.111] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:12:49.113] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:12:54.164] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:12:54.165] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:13:00.459] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:13:00.459] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:14:58.298] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:14:58.299] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:15:03.347] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:15:03.348] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:15:05.085] [IQ Option] [error] Request 'set-user-settings' (443) timed out after 2.06943 sec.
+[2020-05-28 10:15:05.086] [IQ Option] [error] Retries limit reached on request 'set-user-settings'
+[2020-05-28 10:15:06.418] [IQ Option] [error] Request 'update-user-availability' (442) timed out after 8.12444 sec.
+[2020-05-28 10:15:06.418] [IQ Option] [error] Retries limit reached on request 'update-user-availability'
+[2020-05-28 10:15:08.403] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:15:08.404] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:15:13.463] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:15:13.464] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:15:18.599] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:15:18.599] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:15:23.680] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:15:23.681] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:15:28.194] [IQ Option] [error] Analytics: network communication error
+[2020-05-28 10:15:28.754] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:15:28.755] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:15:33.799] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:15:33.799] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:15:38.862] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:15:38.862] [IQ Option] [error] IO error: LocalSocket: can't open: File not found.
+
+[2020-05-28 10:15:40.539] [IQ Option] [error] Error 3 occured on channel 'default'

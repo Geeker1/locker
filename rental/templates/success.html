@@ -1,0 +1,27 @@
+{% extends "layout.html" %}
+{% block message %}
+    {% for message in get_flashed_messages() %}
+        <div class="flash">
+            {{ message }}
+        </div>
+    {% endfor %}
+{% endblock %}
+{% block body %}
+<div class="login">
+<img class="svg" src="{{ url_for('static', filename='success.svg') }}" />
+<h4>Here is your short link, share with others...</h4>
+<input type="text" value="{{ host }}{{ short_url }}" placeholder="">
+<button onclick="writeText('{{ host }}{{ short_url }}')" data-value="{{ host }}{{ short_url }}" class="btn">
+	Copy
+</button>
+</div>
+{% endblock %}
+
+{% block javascript %}
+<script type="text/javascript">
+    async function writeText(text){
+        await navigator.clipboard.writeText(text);
+        alert('Link has been copied to clipboard.')
+    }
+</script>
+{% endblock %}

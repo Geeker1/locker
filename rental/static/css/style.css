@@ -6,6 +6,7 @@ body {
 
 input{
     font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 1.1rem;
 }
 
 h1,
@@ -99,7 +100,7 @@ form input.pass-input{
     padding: 10px;
 }
 
-input.btn{
+.btn{
     padding-top: 12px;
     padding-bottom: 12px;
     width: 200px;
@@ -107,13 +108,14 @@ input.btn{
     border-style: solid;
     outline-color: #fff;
     border-color: #fff;
-    font-size: 15px;
+    font-size: 16px;
     background-color: #2E3436;
     color: #fff;
     font-weight: bold;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
-input.btn:hover{
+.btn:hover{
     cursor: pointer;
     box-shadow: #000 1px 1px 1px 1px;
     outline-color: #2E3436;
@@ -124,7 +126,7 @@ input:-internal-autofill-selected{
     background-color: #fff !important;
 }
 
-input.btn:focus{
+.btn:focus{
     outline-color: #000;
     border-color: #000;
 }
