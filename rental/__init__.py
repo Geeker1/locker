@@ -12,7 +12,7 @@ path = os.path.join(os.path.abspath(os.getcwd()), "test.db")
 if os.getenv("FLASK_ENV") == "DEVELOPMENT":
     SQLALCHEMY_DATABASE_URI = "sqlite:///" + path
 else:
-    SQLALCHEMY_DATABASE_URI = os.getenv("SQLALCHEMY_DATABASE_URI")
+    SQLALCHEMY_DATABASE_URI = os.getenv("DATABASE_URL")
 
 app.config["SQLALCHEMY_DATABASE_URI"] = SQLALCHEMY_DATABASE_URI
 app.config.from_mapping(
